@@ -1,0 +1,12 @@
+sha1
+openssl sha1 teste.txt - cria um hash para o  arquivo txt teste criado.
+echo 'conteudo' | git hash-object --stdin - salva a palavra 'conteúdo' no blob
+echo -e 'blob 9\0conteudo' | openssl sha1 - 
+ssh-keygen -t ed25519 -C gleyzer.lucas@gmail.com - gera um par de chaves ssh
+eval $(ssh-agent -s) - iniciando um projeto
+ssh-add id_ed25519
+
+meu token
+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
+
+
